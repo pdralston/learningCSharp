@@ -37,6 +37,7 @@ namespace variables_lesson2
             //note the lower precision
             Console.WriteLine("f1/f2 is " + fDiv);
 
+            //mixed type division
             double dIDiv = d1 / num1;
             Console.WriteLine("f1/f2 is " + fDiv);
         }
