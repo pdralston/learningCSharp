@@ -32,3 +32,11 @@ variables/variables/obj/Debug/variables.csproj.CoreCompileInputs.cache
 variables/variables/obj/Debug/variables.csproj.FileListAbsolute.txt
 variables/variables/obj/Debug/variables.exe
 variables/variables/obj/Debug/variables.pdb
+*.exe
+*.pdb
+variables/variables/obj/Release/variables.csproj.FileListAbsolute.txt
+*.cache
+variables/variables/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+variables/variables/bin/Release/variables.exe.config
+HelloWorld/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+HelloWorld/HelloWorld/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
