@@ -21,3 +21,7 @@ HelloWorld/HelloWorld/obj/HelloWorld.csproj.nuget.g.props
 HelloWorld/HelloWorld/obj/project.assets.json
 HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.assets.cache
 HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.AssemblyReference.cache
+HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.assets.cache
+HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+HelloWorld/.vs/HelloWorld/v16/.suo
