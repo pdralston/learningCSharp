@@ -40,3 +40,8 @@ variables/variables/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.
 variables/variables/bin/Release/variables.exe.config
 HelloWorld/HelloWorld/obj/Release/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
 HelloWorld/HelloWorld/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+*.dll
+variables_lesson3/variables_lesson3/bin/Debug/net5.0/variables_lesson3.deps.json
+variables_lesson3/variables_lesson3/bin/Debug/net5.0/variables_lesson3.runtimeconfig.dev.json
+variables_lesson3/variables_lesson3/bin/Debug/net5.0/variables_lesson3.runtimeconfig.json
+variables_lesson3/variables_lesson3/obj/Debug/net5.0/variables_lesson3.csproj.FileListAbsolute.txt

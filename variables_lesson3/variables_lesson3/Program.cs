@@ -6,7 +6,8 @@ namespace variables_lesson3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string myname = "David";
+            Console.WriteLine("My name is " + myname);
         }
     }
 }
