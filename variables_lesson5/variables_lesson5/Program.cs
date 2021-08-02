@@ -19,9 +19,36 @@ namespace variables_lesson5
             int myInt;
 
             //cast double to int
+            //explicit conversion
             myInt = (int)myDouble;
             Console.WriteLine(myInt);
 
+            //implicit conversion
+            int num = 12390532;
+            long bigNum = num;
+            float myFloat = 13.37f;
+            double myNewDouble = myFloat;
+            Console.WriteLine(bigNum);
+            Console.WriteLine(myNewDouble);
+
+            //type conversion
+            string myString = myDouble.ToString();
+            string myFloatString = myFloat.ToString();
+            Console.WriteLine(myString);
+            Console.WriteLine(myFloatString);
+
+            bool sunIsShinging = true;
+            Console.WriteLine(sunIsShinging.ToString());
+
+            //parse string to integer
+            myString = "15";
+            string mySecondString = "13";
+            //this is concatination
+            Console.WriteLine(myString + mySecondString);
+            int num1 = Int32.Parse(myString);
+            int num2 = Int32.Parse(mySecondString);
+            //this is mathematic summation
+            Console.WriteLine(num1 + num2);
         }
     }
 }
