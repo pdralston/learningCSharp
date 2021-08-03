@@ -28,7 +28,8 @@ namespace functions_2
             num1 = int.Parse(matches[0].ToString());
             if (matches.Count == 1)
             {
-                matches = null;
+                //empty list of matches
+                matches = Regex.Matches("", @"\d+");
                 while (matches.Count == 0)
                 {
                     Console.WriteLine("Please enter one more number : ");
