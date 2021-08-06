@@ -19,8 +19,8 @@ namespace TryAndCatch
                 Console.WriteLine(e.ToString());
             }
             finally 
-            { 
-                Console.WriteLine("This code is ran regardless of resolution of the try catch block.")    
+            {
+                Console.WriteLine("This code is ran regardless of resolution of the try catch block.");    
             }
         }
     }
