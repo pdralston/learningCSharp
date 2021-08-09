@@ -35,6 +35,7 @@ namespace ifStatementChallenge2
                 {
                     Console.WriteLine($"The old highscore of {highscore} could not be broken and is still held by {highscorePlayer}");
                 }
+                
                 Console.WriteLine("Press any key to continue, Esc to exit");
                 cki = Console.ReadKey(true);
             } while (cki.Key != ConsoleKey.Escape);
